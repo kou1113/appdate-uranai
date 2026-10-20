@@ -1,0 +1,166 @@
+/* Soft lavender, clear glass, and readable questions outside the sphere. */
+:root{--paper:#f3eef7;--ink:#594c66;--muted:#8b7b98;--accent:#9c7db3;--line:#dcd1e5;--pink:#eee1f1}body{background:radial-gradient(ellipse at 18% 20%,#f6e9f1aa,transparent 60%),radial-gradient(ellipse at 85% 60%,#e7def277,transparent 60%),#f3eef7;color:var(--ink)}body:before{display:none}.night-sky{opacity:.15;background-image:radial-gradient(1px 1px at 12% 14%,#b6a0c4 99%,transparent),radial-gradient(1px 1px at 77% 7%,#b6a0c4 99%,transparent);background-size:290px 360px}header{border-color:#d9cce2b3}.brand{color:#766281}.brand-mark{color:#b598bb}.header-note{color:#a491ad;font-size:6px;letter-spacing:.1em}.eyebrow{color:#ac91b8;letter-spacing:.22em}.crystal-intro{padding-top:30px}.crystal-intro h1{color:#63516e;font-size:29px;line-height:1.85;letter-spacing:.065em;margin-top:17px}.intro-lead{color:#96839f;font-size:12px;line-height:2.1}.crystal-halo{background:radial-gradient(ellipse,#d0b9e340 0,#e3c5db20 35%,transparent 70%);animation-duration:8s}.crystal-ball{border:1px solid #c5a9d559;background:radial-gradient(circle at 31% 18%,#ffffffd9 0,transparent 22%),radial-gradient(ellipse at 65% 68%,#eac9e45e,transparent 65%),radial-gradient(circle at 50% 40%,#f2e7fa77,#d6c0e855 60%,#b59ec04d 94%);box-shadow:inset 4px 3px 15px #ffffffad,inset -5px -8px 16px #aa8db53d,inset 0 0 27px #ffffff80,0 0 2px #fff9,0 15px 30px #a487b01a}.orb-nebula{background:conic-gradient(from 40deg,transparent,#c6a3df2b,transparent 40%,#e7c5df33,transparent 80%);animation-duration:45s;opacity:.5}.orb-mist{background:radial-gradient(ellipse at 30% 40%,#ffffff8a 0,transparent 50%),radial-gradient(ellipse at 72% 60%,#dec6e94d 0,transparent 55%);filter:blur(15px);opacity:.5;animation-duration:16s}.mist-two{opacity:.35}.orb-stars{opacity:.35}.orb-stars i{background:#fff;box-shadow:0 0 4px #fff}.orb-reflection{border-color:#fff9;background:radial-gradient(ellipse at 29% 14%,#fffc 0,transparent 6%),radial-gradient(ellipse at 31% 20%,#fff6 0,transparent 20%)}.orb-reflection:after{background:#fff6}.orb-inner-light{position:absolute;inset:21%;border-radius:50%;background:radial-gradient(ellipse,#fffdfae6 0,#ecdeee80 30%,#ccb5db40 55%,transparent 75%);filter:blur(5px);animation:glass-inner-breathe 7s ease-in-out infinite}.orb-intro-label{position:absolute;bottom:69px;font:6px Georgia;letter-spacing:.18em;color:#aa8fb5}.celestial-ring{border-color:#b9a1c32b;width:265px;left:7.5px;transform:rotate(-13deg)}.celestial-ring:before{display:none}.orbit-spark{color:#c2aac6;font-size:14px;text-shadow:none;opacity:.5}.spark-left{top:88px;left:5px}.spark-right{top:192px;right:5px;font-size:11px}.crystal-stand{filter:drop-shadow(0 5px 6px #9c7ca21a)}.stand-crown{height:15px;top:3px;background:linear-gradient(90deg,#c0aec3,#eee3df 25%,#c6b6ca 60%,#ded0d4);border-top:1px solid #fff9;border-bottom:1px solid #bda9c366;box-shadow:inset 0 -2px 5px #9b7aa11a}.stand-crown:after{border-color:#bfa6c340;top:5px}.stand-neck{height:15px;top:17px;background:linear-gradient(90deg,#d7c7dc,#f0e6e9,#c9b6cf)}.stand-foot{height:15px;bottom:8px;background:linear-gradient(#e9dde8,#c5b4cf);border-color:#cbb8d2;box-shadow:inset 0 2px #fff7}.gem-progress{top:238px;gap:15px}.gem{width:7px;height:7px;border-color:#b9a2c0;background:linear-gradient(135deg,#e9deef,#ccb8d6);box-shadow:inset 0 0 2px #fff8}.gem.lit{background:linear-gradient(135deg,#fff,#c2a0d6 55%,#a682bf);box-shadow:0 0 7px #d1b0e399,inset 0 0 2px #fff}.intro-prompt{color:#8c7997;font-family:'Yu Gothic','Hiragino Kaku Gothic ProN',sans-serif;font-size:12px;line-height:2.1}.primary{background:linear-gradient(115deg,#ac8bbd,#bc96b6);border:1px solid #ffffffa6;box-shadow:0 6px 17px #a27eae29,inset 0 1px #fff4;color:#fff;border-radius:32px;min-height:56px;font-size:13px}.primary:hover{background:linear-gradient(115deg,#9d7caf,#af89aa)}.primary .arrow{color:#fff3f6;font-size:17px}.intro-assurances{color:#8e7c9b}.intro-assurances span+span{border-color:#d5c5dd}.intro-categories{color:#a18caf}.quiet{color:#9a88a7}.intro-disclaimer{font-size:9px}.step-line{color:#a18bac;font-size:8px;padding-top:22px}.step-line strong{color:#9677a7;font-size:13px}.question-heading{text-align:center;margin:24px -2px 0}.question{color:#62516e;text-shadow:none;font-size:22px;line-height:1.8;font-weight:500;letter-spacing:.025em}.question-heading .subtext{color:#97839f;font-size:11px;margin:10px 0 0;line-height:1.9}.compact .question-orb{transform:scale(.66);margin-top:-29px;margin-bottom:-71px}.question-orb .celestial-ring{opacity:.5}.question-orb .orbit-spark{opacity:.4}.question-orb .orb-message{pointer-events:none}.options{gap:11px}.option{background:#fffafc9c;border:1px solid #dfd0e6;color:#75607f;border-radius:13px;min-height:61px;padding:14px 17px;font-size:13px;box-shadow:0 3px 12px #a185ad07,inset 0 1px #fff8}.option:hover{background:#fffafc;border-color:#bba0ca}.answer-gem{width:7px;height:7px;border-color:#b698c6;background:linear-gradient(135deg,#e9d9ef,#c6abd7);box-shadow:none}.option .chevron{color:#b5a0bf!important}.option.chosen{border-color:#bb9fcb;background:#eee1f5;box-shadow:0 0 17px #d0b2df44}.option.chosen .answer-gem{background:#fff;box-shadow:0 0 9px #c6a0d9}.option.unpicked{opacity:.4}.back,.text-button{color:#9981a8}.nav-note{color:#a691af}.navigation{margin-top:16px}.absorption-particles i{width:4px;height:4px;background:#e0c5ec;box-shadow:0 0 7px 2px #d3b5e180;animation-name:gentle-absorb;animation-duration:800ms}.orb-flash{background:radial-gradient(ellipse,#fffdf6b3,#efdeef4d 45%,transparent 72%)}.is-absorbing .orb-nebula{animation:nebula-turn 35s linear infinite}.is-absorbing .orb-mist{animation:glass-wave 1400ms ease both}.is-absorbing .orb-message{animation:none}.is-absorbing .orb-flash{animation:glass-receive 1400ms ease both}.crystal-reading{padding-top:55px}.crystal-reading h2{color:#76617f;font-size:24px}.crystal-reading p{color:#a18aaa;font-size:11px}.reveal-sigil{font-size:65px;color:#c1a2ca;text-shadow:0 0 18px #fff7}.revelation-orb .orb-flash{animation:glass-receive 2300ms ease both}.crystal-result{background:linear-gradient(160deg,#fffafcdd,#f9f2fbd9);border:1px solid #e3d5e9;box-shadow:0 14px 35px #a581b013;border-radius:20px;padding:27px 23px}.crystal-result:before{border-color:#d7c5df44;border-radius:15px}.result-heading{color:#6c527a;font-size:25px}.result-tag{color:#9d7ca9;border-color:#d8c3e1;background:#f1e5f4}.summary{color:#8c7598;font-size:13px}.quote{background:#f0e5f450;border-color:#decee7;border-radius:10px}.quote small{color:#a18ba9}.quote strong{color:#8b6e9b}.topic-title{color:#82658f}.topic{border-color:#e3d5e9}.topic .number{color:#b09ab9}.topic strong{color:#866b94}.topic p{color:#a08bad}.consult{background:linear-gradient(145deg,#f0e6f6,#f5e7f0);border:1px solid #e4d3e8;border-radius:14px}.consult h3{color:#886894}.consult p{color:#987da5}.offer-kicker{color:#9e7eaa;border-color:#cbb2d5}.coupon{background:#fffaf6;border-color:#d1b6c6;border-radius:10px;box-shadow:0 5px 15px #9e7d9c0a}.coupon-exclusive{background:linear-gradient(120deg,#b493c1,#c6a1b7);color:#fff}.coupon-exclusive span{color:#f9ebf5}.coupon>span{color:#aa8e9f}.coupon strong{color:#b18b9e}.coupon strong em{border-color:#d0afbf}.coupon p{color:#ab94a5!important}.coupon:before,.coupon:after{background:#f2e7f3}.crystal-result .primary{font-size:12px;letter-spacing:.025em}footer{border-color:#ddcfe4;color:#a28eac}.result-crystal-top .crystal-stage{opacity:.85}button:focus-visible,a:focus-visible{outline-color:#b28ac5}@keyframes glass-inner-breathe{0%,100%{opacity:.55;transform:scale(.9)}50%{opacity:.95;transform:scale(1.08)}}@keyframes glass-wave{0%{transform:translate(0,0) scale(1);opacity:.4}60%{transform:translate(4%,-4%) scale(1.12);opacity:.65}100%{transform:translate(0,0) scale(1);opacity:.4}}@keyframes glass-receive{0%,35%,100%{opacity:0;transform:scale(.8)}65%{opacity:.7;transform:scale(1.12)}}@keyframes gentle-absorb{0%{opacity:0;transform:translate(var(--particle-spread),0) scale(.3)}20%{opacity:.65}80%{opacity:.5}100%{opacity:0;transform:translate(var(--travel-x),var(--travel-y)) scale(.1)}}@media(max-width:360px){.crystal-intro h1{font-size:26px}.question{font-size:20px}.question-heading .subtext{font-size:10px}.option{font-size:12px}.crystal-intro .intro-orb{margin-top:-10px;margin-bottom:-20px;transform:scale(.9)}.compact .question-orb{margin-top:-33px;margin-bottom:-75px}.header-note{font-size:5px}.crystal-result{padding:24px 18px}.result-heading{font-size:22px}}@media(max-height:740px){.crystal-intro{padding-top:17px}.crystal-intro h1{font-size:25px;margin:12px -10px 9px}.intro-lead{font-size:11px}.crystal-intro .intro-orb{transform:scale(.88);margin-top:-14px;margin-bottom:-25px}.intro-prompt{font-size:11px;margin-bottom:18px}.question-heading{margin-top:19px}.question{font-size:20px}.compact .question-orb{transform:scale(.58);margin-top:-44px;margin-bottom:-87px}.compact .option{min-height:56px;padding-top:12px;padding-bottom:12px}.question-heading .subtext{margin-bottom:0}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}.absorption-particles{display:none!important}}
+/* Each answer leaves more light in the crystal; charge survives question changes. */
+.orb-energy{position:absolute;left:0;right:0;bottom:0;height:var(--charge-level,0%);background:radial-gradient(ellipse at 50% 25%,#fff4f3b3,transparent 70%),linear-gradient(0deg,#b98bd6ad,#d8b1e4a6 55%,#ebcee599);box-shadow:0 -4px 22px #e9bde950,inset 0 -12px 27px #af84c72b;transition:height 600ms cubic-bezier(.22,.65,.25,1);border-radius:0 0 50% 50%;pointer-events:none;z-index:1;isolation:isolate}.energy-surface{position:absolute;left:-12%;right:-12%;height:32px;top:-14px;border-radius:50%;background:linear-gradient(0deg,#f7e6f760,#fff5);box-shadow:0 -2px 14px #fff7;animation:energy-tide 5s ease-in-out infinite}.energy-dots{position:absolute;inset:0;overflow:hidden}.energy-dots i{position:absolute;left:22%;bottom:-5px;width:3px;height:3px;background:#fff9;border-radius:50%;box-shadow:0 0 5px #fff8;animation:energy-rise 5s linear infinite}.energy-dots i:nth-child(2){left:43%;animation-delay:-1.2s;width:2px;height:2px}.energy-dots i:nth-child(3){left:61%;animation-delay:-2.4s}.energy-dots i:nth-child(4){left:75%;animation-delay:-3.3s;width:2px;height:2px}.energy-dots i:nth-child(5){left:36%;animation-delay:-4.1s}.crystal-stage .crystal-halo{opacity:calc(.2 + var(--charge,0)*.65);transform:scale(calc(.91 + var(--charge,0)*.14));animation:none;transition:opacity .6s,transform .6s;background:radial-gradient(ellipse,#cc9ee566 0,#e6b4d52b 35%,transparent 70%)}.crystal-stage .orb-inner-light{opacity:calc(.3 + var(--charge,0)*.6);animation:none;transition:opacity .6s}.crystal-stage .crystal-ball{box-shadow:inset 4px 3px 15px #ffffffad,inset -5px -8px 16px #aa8db53d,inset 0 0 27px #ffffff80,0 0 2px #fff9,0 0 calc(8px + var(--charge,0)*34px) #c6a0df44,0 15px 30px #a487b01a;transition:box-shadow .6s}.energy-added .energy-surface{animation:energy-surge 650ms ease both}.energy-added .energy-dots i{animation-duration:2s}.journey-progress{height:12px;position:relative;border:1px solid #d9c5e3;border-radius:20px;overflow:hidden;background:#fff7;box-shadow:inset 0 2px 4px #a58ab010;margin:11px 0 0;isolation:isolate}.journey-liquid{position:absolute;inset:0 auto 0 0;width:var(--journey-fill,0%);background:linear-gradient(90deg,#c4a1d8,#dcb4d6);border-radius:20px;box-shadow:0 0 8px #c499d570,inset 0 1px #fffa;transition:width 600ms cubic-bezier(.22,.65,.25,1)}.journey-wave{position:absolute;right:-4px;top:-6px;bottom:-6px;width:8px;background:#efd6e9;border-radius:45%;animation:energy-tide 3s ease-in-out infinite}.journey-ticks{position:absolute;inset:0;display:flex;align-items:center;justify-content:space-evenly}.journey-ticks i{height:5px;width:1px;background:#fffb}.journey-caption{display:flex;align-items:center;justify-content:space-between;margin:7px 0 0;font-size:8px;color:#a08aaa;letter-spacing:.025em}.journey-caption>span:last-child{font-variant-numeric:tabular-nums;color:#9c7dae}.journey-progress.is-filling{animation:journey-charge 650ms ease both}.question-heading{margin-top:21px}.step-line{font-size:9px}#remaining-questions{color:#a086ab}.revelation-orb .orb-energy{opacity:.85}.revealed-orb .orb-energy{opacity:.75}@keyframes energy-tide{0%,100%{transform:translateY(-1px) rotate(-3deg)}50%{transform:translateY(2px) rotate(3deg)}}@keyframes energy-surge{0%{transform:translateY(4px) scaleX(.96)}40%{transform:translateY(-4px) rotate(4deg) scaleX(1.05)}100%{transform:translateY(0) rotate(0) scaleX(1)}}@keyframes energy-rise{0%{opacity:0;transform:translate(0,0)}15%{opacity:.8}100%{opacity:0;transform:translate(10px,-170px)}}@keyframes journey-charge{0%,100%{box-shadow:inset 0 2px 4px #a58ab010}40%{box-shadow:0 0 14px #d2aedf99,inset 0 0 5px #fffc}}@media(max-width:360px){.journey-caption{font-size:7px}.question-heading{margin-top:18px}}@media(max-height:740px){.question-heading{margin-top:17px}.journey-caption{font-size:7px}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}}
+/* The stored light becomes a message, then settles into a quiet reading surface. */
+.revelation-orb .orb-message{animation:message-in-crystal 2300ms ease both;padding:25px 23px}.result-sphere-label{font:7px Georgia,serif;letter-spacing:.22em;color:#9e7aaf;display:block;margin-bottom:13px}.sphere-result-title{font-family:'Yu Mincho','Hiragino Mincho ProN',serif;color:#7b598c;font-size:19px;line-height:1.85;letter-spacing:.02em;margin:0;text-shadow:0 1px 9px #fffc}.revelation-orb .orb-energy{opacity:.45}.revelation-orb .orb-reflection{opacity:.6}.result-view .orb-mist,.result-view .orb-nebula,.result-view .orb-stars i,.result-view .energy-surface,.result-view .energy-dots i,.result-view .orbit-spark{animation:none!important}.result-view .orb-stars{opacity:.15}.result-view .orb-mist{opacity:.15}.result-view .energy-dots{display:none}.result-view .crystal-halo{opacity:.35}.result-crystal-top{position:relative;pointer-events:none}.result-crystal-top:after{content:'';position:absolute;width:1px;height:32px;bottom:-8px;left:50%;background:linear-gradient(transparent,#d3b7df,transparent);animation:message-thread 900ms ease both}.result-view .crystal-result{animation:message-paper 850ms ease both;background:linear-gradient(155deg,#fffdfcdd,#faf5fcd9);padding:29px 22px;border-color:#e0d1e8;overflow:hidden}.result-chapter{position:relative}.chapter-label{display:flex;justify-content:center;align-items:center;gap:10px;color:#b69cc2;font:8px Georgia,serif;letter-spacing:.17em;margin-bottom:20px}.chapter-label>span{display:grid;place-items:center;width:24px;height:24px;border:1px solid #dcccdf;border-radius:50%;font-size:10px;letter-spacing:0;background:#fff7;color:#ac8dbb}.chapter-theme{text-align:center}.chapter-theme .quiet[style]{text-align:center!important}.chapter-theme .result-heading{font-size:25px;line-height:1.85;margin:19px -3px 18px;animation:theme-materialize 1100ms ease both}.chapter-theme .summary{text-align:left;animation:body-materialize 1200ms ease both}.result-chapter+.result-chapter{border-top:1px solid #e7d9eb;margin-top:29px;padding-top:26px}.chapter-heading,.chapter-topics .topic-title{font-family:'Yu Mincho','Hiragino Mincho ProN',serif;font-size:18px;font-weight:500;line-height:1.8;text-align:center;color:#90709f;letter-spacing:.02em;margin:0 0 20px}.chapter-feelings .quote{background:linear-gradient(115deg,#f3eaf77a,#f6ecf36b);border:0;border-left:2px solid #d9c3e4;padding:16px 14px}.chapter-feelings .quote small{font-size:9px;line-height:1.9;margin-bottom:8px}.chapter-feelings .quote strong{font-size:13px;line-height:1.9}.chapter-feelings .summary{margin-top:18px;line-height:2.2}.chapter-topics .topic{border-top:0;border-bottom:1px solid #e8dcec80;padding:17px 0;align-items:flex-start}.chapter-topics .topic:last-child{border-bottom:0;padding-bottom:0}.chapter-topics .topic .number{display:grid;place-items:center;width:28px;height:28px;flex-shrink:0;font-size:12px;border-radius:50%;background:#eee1f280;color:#b293bf}.chapter-topics .topic strong{font-weight:500;font-size:14px}.chapter-topics .topic p{line-height:1.9;font-size:12px}.crystal-result .consult{margin:32px -8px 0;border-color:#dfcfe7;background:linear-gradient(145deg,#f0e7f76b,#f4e9f27a);padding:25px 16px 23px}.crystal-result .consult h3{line-height:1.9;font-size:18px}.crystal-result .consult>p{line-height:2}.crystal-result .glass-gift{position:relative;overflow:hidden;background:radial-gradient(ellipse at 15% 10%,#ffffffeb,transparent 65%),linear-gradient(130deg,#ffffffa1,#e8def2a8 50%,#f7e6f2aa);border:1px solid #d0c1dd;border-radius:17px;padding:22px 15px;box-shadow:0 9px 25px #ae91bc1a,inset 0 0 0 1px #ffffffb3,inset 0 0 22px #fff8;backdrop-filter:blur(8px)}.crystal-result .glass-gift:before{content:'';position:absolute;inset:6px;width:auto;height:auto;background:none;border:1px solid #fff9;border-radius:12px;top:6px;left:6px;transform:none;pointer-events:none}.crystal-result .glass-gift:after{content:'';position:absolute;top:-50%;left:-15%;width:40%;height:180%;border-radius:0;background:linear-gradient(90deg,transparent,#fff8,transparent);transform:rotate(28deg);pointer-events:none}.glass-gift .coupon-exclusive{background:none;color:#a38aac;padding:0 0 16px;border-bottom:1px solid #d6c7df88;margin:0 0 17px;font-size:12px;font-family:'Yu Mincho',serif}.glass-gift .coupon-exclusive span{color:#baa5c8;font-size:7px;letter-spacing:.22em;margin-bottom:9px}.glass-gift .coupon-exclusive b{font-size:17px;font-weight:500}.glass-gift>span{color:#a78fb2;font-size:10px}.glass-gift strong{color:#a081b4;margin:10px 0 9px;gap:6px 8px}.glass-gift strong b{font-size:34px;font-weight:400;letter-spacing:.015em}.glass-gift strong em{border-color:#c7b4d5;background:#fff6;font-size:10px;color:#aa90ba}.glass-gift strong small{font-size:10px;letter-spacing:.12em}.glass-gift p{font-size:10px!important;color:#aa96b5!important}.crystal-result .consult .service-disclosure{font-size:10px;color:#9f86ab;text-align:center;margin:19px 0 11px;line-height:1.9}.result-view .result-actions{margin-top:24px;padding-top:8px}.result-view .crystal-result>.quiet{margin-top:19px;line-height:2}@keyframes message-in-crystal{0%,30%{opacity:0;filter:blur(10px);transform:translateY(10px)}75%,100%{opacity:1;filter:blur(0);transform:translateY(0)}}@keyframes message-thread{0%{opacity:0;transform:scaleY(.2)}50%{opacity:.9}100%{opacity:.4;transform:scaleY(1)}}@keyframes message-paper{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}@keyframes theme-materialize{0%,12%{opacity:0;filter:blur(5px);transform:translateY(-9px)}100%{opacity:1;filter:blur(0);transform:translateY(0)}}@keyframes body-materialize{0%,30%{opacity:0;transform:translateY(8px)}100%{opacity:1;transform:translateY(0)}}@media(max-width:360px){.result-view .crystal-result{padding:26px 18px}.chapter-theme .result-heading{font-size:22px}.chapter-heading,.chapter-topics .topic-title{font-size:16px}.sphere-result-title{font-size:18px}.crystal-result .consult{padding:22px 13px}.glass-gift strong b{font-size:31px}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}.revelation-orb .orb-message{opacity:1;filter:none}}
+
+/* Stronger separation between clear glass and the stored energy. */
+.orb-energy {
+  background:
+    radial-gradient(ellipse at 50% 18%, #e7c5f185, transparent 65%),
+    linear-gradient(0deg, #9361b9e6, #af7bcec9 55%, #c49cddbf);
+  border-radius: 0;
+  box-shadow: 0 -3px 17px #d6a8ed66, inset 0 -12px 24px #75449b29;
+}
+.energy-surface {
+  height: 20px;
+  top: -9px;
+  border-top: 2px solid #fff7fd;
+  border-bottom: 1px solid #d8b6ee99;
+  background: linear-gradient(0deg, #d8b8e999, #fff0f6d9);
+  box-shadow: 0 -2px 8px #fff9, 0 2px 12px #e7c6f299;
+  opacity: clamp(0, calc(var(--charge, 0) * 5), 1);
+}
+.question-orb .orb-inner-light { opacity: .18; }
+.question-orb .orb-mist { opacity: .22; }
+.question-orb .mist-two { opacity: .12; }
+.energy-dots i {
+  background: #fff8ec;
+  box-shadow: 0 0 5px #fff8;
+  width: 4px;
+  height: 4px;
+}
+.energy-added .crystal-ball {
+  animation: visible-charge-pulse 650ms ease both;
+}
+.energy-added .crystal-halo {
+  animation: visible-charge-halo 650ms ease both;
+}
+.journey-progress {
+  height: 14px;
+  border-color: #c9afd9;
+  background: #fffafde6;
+}
+.journey-liquid {
+  background: linear-gradient(90deg, #a478c4, #bf8ecb);
+  box-shadow: 0 0 9px #bc8bd15c, inset 0 1px #ffffffbd;
+}
+.journey-wave { background: #e8c7eb; }
+.journey-liquid:after {
+  content: '';
+  position: absolute;
+  right: -3px;
+  top: 50%;
+  width: 7px;
+  height: 7px;
+  margin-top: -3.5px;
+  border-radius: 50%;
+  background: #fff6e7;
+  box-shadow: 0 0 6px 2px #fff0e4aa;
+  opacity: 0;
+  pointer-events: none;
+}
+.is-filling .journey-liquid:after {
+  animation: progress-tip-spark 650ms ease both;
+}
+.journey-caption { color: #947a9f; }
+.journey-caption > span:last-child { color: #876197; }
+@keyframes visible-charge-pulse {
+  0%, 100% { filter: brightness(1); transform: scale(1); }
+  45% { filter: brightness(1.15); transform: scale(1.035); }
+}
+@keyframes visible-charge-halo {
+  0%, 100% { filter: brightness(1); }
+  45% { filter: brightness(1.45); }
+}
+@keyframes progress-tip-spark {
+  0% { opacity: 0; transform: scale(.4); }
+  35% { opacity: 1; transform: scale(1.5); }
+  100% { opacity: 0; transform: scale(.7); }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *:before, *:after { animation: none !important; transition: none !important; }
+}
+
+/* Tempo revision: keep the crystal in place and continue after 400 ms. */
+.is-absorbing .absorption-particles i{animation-duration:320ms;animation-delay:0ms}
+.is-absorbing .orb-mist,.is-absorbing .orb-flash{animation-duration:400ms}
+.energy-added .crystal-ball,.energy-added .crystal-halo,.energy-added .energy-surface,.journey-progress.is-filling{animation-duration:400ms}
+.orb-energy,.journey-liquid{transition-duration:350ms}
+.is-filling .journey-liquid:after{animation-duration:350ms}
+.revelation-orb .orb-message,.revelation-orb .orb-flash,.revelation-orb .orb-mist{animation-duration:700ms}
+.result-view .crystal-result,.chapter-theme .result-heading,.chapter-theme .summary,.result-crystal-top:after{animation:none;opacity:1;filter:none;transform:none}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}}
+
+/* Coupon: readable offer hierarchy on the result screen. */
+.crystal-result .glass-gift{background:linear-gradient(145deg,#fffdf8,#fff6e6);border:2px solid #b79750;padding:0 18px 22px;box-shadow:0 8px 26px #69427818,inset 0 0 0 4px #fffdf8}
+.crystal-result .glass-gift:before{border-color:#d8bd7b80;z-index:0}
+.crystal-result .glass-gift:after{display:none}
+.glass-gift .coupon-exclusive{position:relative;background:#553567;color:#fff;margin:0 -18px 20px;padding:15px 12px;border-bottom:3px solid #c9a75f;font-family:inherit;font-size:14px;line-height:1.6}
+.glass-gift .coupon-exclusive span{color:#f6e8cf;font-family:inherit;font-size:13px;letter-spacing:.04em;margin:0 0 3px}
+.glass-gift .coupon-exclusive b{font-size:20px;font-weight:700;letter-spacing:.04em}
+.crystal-result .glass-gift>span{color:#4f3b5a;font-size:15px;font-weight:700;letter-spacing:.04em}
+.glass-gift strong{color:#82345a;gap:10px;margin:15px 0 12px}
+.glass-gift strong small{font-size:13px;font-weight:700;letter-spacing:.08em;color:#553567}
+.glass-gift strong b{display:flex;align-items:baseline;justify-content:center;gap:3px;width:100%;font-family:Arial,'Hiragino Kaku Gothic ProN',sans-serif;font-size:52px;font-weight:800;line-height:1.08;letter-spacing:-.03em}
+.glass-gift .coupon-unit{font-size:26px;font-weight:700;letter-spacing:0}
+.glass-gift strong em{font-size:14px;font-weight:700;letter-spacing:.12em;color:#684b24;background:#f3e4bd;border-color:#c3a365;padding:4px 20px}
+.crystal-result .glass-gift p{font-size:13px!important;color:#5e4b65!important;line-height:1.8;margin:12px 0 0!important}
+.crystal-result .consult .service-disclosure{font-size:12px;color:#665073}
+@media(max-width:360px){.glass-gift strong b{font-size:46px}.glass-gift .coupon-unit{font-size:23px}.glass-gift .coupon-exclusive b{font-size:18px}}
+
+/* Typography hierarchy: titles, reading copy, and supporting notes. */
+:root{--ink:#403647;--muted:#716779;--accent:#69467f}
+body{color:var(--ink)}
+.brand{color:#513d60;font-weight:700}
+.header-note{color:#75667f;font-size:8px}
+.eyebrow{color:#786184;font-size:10px}
+.crystal-intro h1{color:#472c5b;font-size:30px;font-weight:700;line-height:1.65;letter-spacing:.04em}
+.intro-lead,.intro-prompt{color:#5e5267;font-size:14px;line-height:1.9}
+.intro-assurances,.intro-categories{color:#716079;font-size:12px}
+.quiet{color:#756b7c;font-size:12px;line-height:1.85}
+.intro-disclaimer{font-size:11px}
+.primary{background:linear-gradient(115deg,#72508c,#865b88);font-size:15px;font-weight:700;line-height:1.65}
+.primary:hover{background:linear-gradient(115deg,#614077,#754a77)}
+.step-line{color:#706277;font-size:11px}
+.step-line strong{color:#553368;font-size:15px}
+#remaining-questions{color:#706277}
+.journey-caption,.journey-caption>span:last-child{color:#6e587c;font-size:10px}
+.question-heading{margin-bottom:6px}
+.question{color:#442b57;font-size:24px;font-weight:700;line-height:1.65}
+.question-heading .subtext{color:#716477;font-size:13px;line-height:1.8}
+.option{color:#4b3b56;font-size:15px;line-height:1.65;background:#fffdfef0;border-color:#d1bfdc;padding:16px 17px}
+.option.chosen{color:#48245f;border-color:#88629e;background:#eadef2}
+.back,.text-button{color:#695176;font-size:13px}
+.nav-note{color:#76687e;font-size:11px}
+.crystal-reading h2{color:#50365f;font-size:25px;font-weight:700}
+.crystal-reading p{color:#65566f;font-size:14px;line-height:1.9}
+.result-view .crystal-result{background:#fffdfef5}
+.chapter-label{justify-content:flex-start;color:#796585;font-size:10px;letter-spacing:.12em;margin-bottom:18px}
+.chapter-label>span{background:#68467c;color:#fff;border:0;font-size:12px;font-weight:700;width:28px;height:28px}
+.chapter-theme .eyebrow{display:none}
+.chapter-theme .quiet{font-size:12px;color:#73617d}
+.chapter-theme .result-heading{color:#4b2b60;font-size:27px;font-weight:700;line-height:1.65;letter-spacing:.015em;margin:20px -3px}
+.result-tag{color:#644475;background:#eee3f4;border-color:#d5bfdf;font-size:12px;font-weight:700;line-height:1.7}
+.crystal-result .summary{color:#514858;font-size:15px;line-height:1.95;letter-spacing:.015em}
+.result-chapter+.result-chapter{margin-top:32px;padding-top:28px;border-top-color:#d9c9e2}
+.chapter-heading,.chapter-topics .topic-title{color:#513362;font-family:inherit;font-size:20px;font-weight:700;line-height:1.65;text-align:left;margin-bottom:20px;letter-spacing:0}
+.chapter-feelings .quote{background:#f1eaf6;border-left:3px solid #9773ae;padding:16px 14px;margin:20px 0 16px}
+.chapter-feelings .quote small{display:block;color:#73617f;font-size:12px;line-height:1.7;margin-bottom:10px}
+.chapter-feelings .quote strong{display:block;color:#58336e;font-size:17px;font-weight:700;line-height:1.75}
+.chapter-feelings .summary{line-height:1.95;margin:16px 0 25px}
+.answer-interpretation{display:block;margin-top:12px}
+.chapter-topics .topic{gap:12px;padding:21px 0;border-bottom-color:#e2d8e8}
+.chapter-topics .topic .number{background:#eee3f4;color:#68427f;font-size:12px;font-weight:700}
+.chapter-topics .topic strong{display:block;color:#553366;font-size:17px;font-weight:700;line-height:1.65}
+.chapter-topics .topic p{color:#5e5365;font-size:14px;line-height:1.9;margin-top:8px}
+.crystal-result .consult{padding-top:23px;background:#f4eef8;border-color:#d7c5e1}
+.offer-kicker{font-family:inherit;color:#724888;font-size:12px;font-weight:700;letter-spacing:.04em}
+.crystal-result .consult h3{color:#513062;font-family:inherit;font-size:21px;font-weight:700;line-height:1.65;margin-top:10px}
+.crystal-result .consult>p{color:#5a4e62;font-size:14px;line-height:1.9}
+.crystal-result .consult .primary{font-size:15px;padding:17px 16px}
+.crystal-result .consult>p.quiet{color:#756b7c;font-size:11px;line-height:1.85;text-align:left}
+.result-view .crystal-result>.quiet{font-size:11px;text-align:left;color:#756b7c}
+footer{color:#76687e;font-size:11px}
+@media(max-width:360px){.crystal-intro h1{font-size:27px}.question{font-size:22px}.question-heading .subtext{font-size:12px}.option{font-size:14px}.chapter-theme .result-heading{font-size:24px}.chapter-heading,.chapter-topics .topic-title{font-size:19px}.chapter-feelings .quote strong{font-size:16px}.crystal-result .consult h3{font-size:19px}.journey-caption{font-size:9px}}
