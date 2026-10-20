@@ -164,3 +164,9 @@ body{color:var(--ink)}
 .result-view .crystal-result>.quiet{font-size:11px;text-align:left;color:#756b7c}
 footer{color:#76687e;font-size:11px}
 @media(max-width:360px){.crystal-intro h1{font-size:27px}.question{font-size:22px}.question-heading .subtext{font-size:12px}.option{font-size:14px}.chapter-theme .result-heading{font-size:24px}.chapter-heading,.chapter-topics .topic-title{font-size:19px}.chapter-feelings .quote strong{font-size:16px}.crystal-result .consult h3{font-size:19px}.journey-caption{font-size:9px}}
+
+/* The complete coupon image is a link to the client landing page. */
+.coupon-image-link{display:block;margin:20px 0;border-radius:17px;transition:box-shadow .2s}
+.coupon-image-link img{display:block;width:100%;height:auto;border-radius:17px}
+.coupon-image-link:hover{box-shadow:0 6px 22px #69427830}
+.coupon-image-link:focus-visible{outline:3px solid #72508c;outline-offset:4px}
