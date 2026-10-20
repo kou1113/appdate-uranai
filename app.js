@@ -1,5 +1,5 @@
 let resultCtaObserver=null;
-const DESTINATION='https://sp.minden.jp/lp_58/?ref=ad-afb-005';
+const DESTINATION='https://ac.ad-camp.net/d8670ac1AA8a112q/cl/?bId=aalea6cl';
 const app=document.getElementById('app');let answers=[],step=-1,timer=null,busy=false;
 const routes={
  love:{name:'恋愛',icon:'♡',q2:'今の恋愛状況に、一番近いものは？',q2opts:['気になる人がいる・相手の気持ちが分からない','パートナーとの関係・結婚について悩んでいる','別れた相手と復縁したい','良い出会いがない'],q3:'今、一番知りたいことは？',q3opts:['あの人の本当の気持ち','二人がこれからどうなるのか','関係が動くタイミング','自分からどう動けばいいのか'],q4:'その答えが分かったら、どうしたいですか？',q4opts:['二人の関係を前に進めたい','今の関係を続けるか決めたい','自分から動くタイミングを決めたい','気持ちを整理して次へ進みたい']},
