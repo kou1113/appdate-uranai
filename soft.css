@@ -192,3 +192,18 @@ footer{color:#76687e;font-size:11px}
 @keyframes cta-tap-glow{0%{box-shadow:0 7px 18px #3218412b,0 0 0 0 #d7b5ed00}35%{box-shadow:0 7px 20px #32184140,0 0 18px 5px #c7a1e380,0 0 8px 2px #e7cc8e70}100%{box-shadow:0 7px 18px #3218412b,0 0 24px 9px #d7b5ed00}}
 @media(max-width:360px){.crystal-result .consult .result-cta{min-height:68px;padding:14px 12px 14px 17px;font-size:15px;gap:8px}.crystal-result .result-cta .arrow{flex-basis:34px;width:34px;height:34px;font-size:22px}}
 @media(prefers-reduced-motion:reduce){.result-cta.has-shimmered:before,.result-cta.tap-glow{animation:none!important}.crystal-result .consult .result-cta:active{transform:none;box-shadow:0 0 12px #c7a1e380}}
+
+.crystal-result .consult .coupon-expiry-note{margin:-10px 0 20px;font-size:11px;line-height:1.7;text-align:center;color:var(--ink);}
+
+.crystal-result .consult .result-cta{justify-content:center;padding-left:16px;padding-right:16px;text-align:center;}
+
+.crystal-result .consult .coupon-image-link{position:relative;}
+.crystal-result .consult .coupon-image-link .coupon-expiry-note{position:absolute;top:85.4%;left:3%;width:94%;margin:0;transform:translateY(-50%);font-size:clamp(9px,2.6vw,11px);line-height:1.5;text-align:center;color:#594c66;}
+
+/* Give the expiry and closing message their own space inside the coupon. */
+.crystal-result .consult .coupon-image-link{overflow:hidden;background:#fff9ed;border:2px solid #b99b49;text-decoration:none;}
+.coupon-art-crop{display:block;aspect-ratio:632 / 588;overflow:hidden;}
+.crystal-result .consult .coupon-art-crop img{width:100%;height:auto;border-radius:0;}
+.coupon-details{display:flex;flex-direction:column;align-items:center;gap:20px;padding:12px 10px 22px;border:1px solid #eadbb4;border-top:0;border-radius:0 0 15px 15px;margin:0 6px 6px;}
+.crystal-result .consult .coupon-image-link .coupon-expiry-note{position:static;transform:none;width:auto;margin:0;font-size:11px;line-height:1.7;color:#594c66;text-align:center;}
+.coupon-closing-message{font-size:clamp(11px,3.2vw,14px);line-height:1.8;color:#594c66;text-align:center;}
